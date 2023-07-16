@@ -1,0 +1,35 @@
+#box {
+  width: 300px;
+  height:300px;
+  border: 2px solid black;
+  margin:auto;
+ 
+}
+#red {
+    margin:10px 10px 10px 800px;
+    text-align:center;
+    
+
+}
+#black {
+    margin:10px 10px 10px;
+    text-align:center;
+    
+
+}
+#pink {
+    margin:10px 10px 10px;
+    text-align:center;
+    
+
+}
+#orange {
+    margin:10px 10px 10px;
+    text-align:center;
+    
+
+}
+.abc {
+    text-align:center;
+
+}
